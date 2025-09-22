@@ -154,7 +154,7 @@ Após a análise, você receberá:
 
 ## 🔗 Recursos Adicionais
 
-- [Eugene Schwartz - Breakthrough Advertising](https://example.com)
+- [Eugene Schwartz - Breakthrough Advertising]
 - [Documentação n8n](https://docs.n8n.io)
 - [OpenAI API Documentation](https://platform.openai.com/docs)
 
