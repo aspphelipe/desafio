@@ -16,7 +16,7 @@ Este sistema automatiza a análise de leads de copywriting utilizando os princí
 ### Pré-requisitos
 
 - **n8n** instalado e configurado
-- **Credenciais OpenAI** (testado com GPT-4 e GPT-4 mini)
+- **Credenciais OpenAI** (testado com GPT-5 e GPT-5 mini)
 - Acesso à API da OpenAI
 
 ### Instalação
@@ -27,7 +27,7 @@ Este sistema automatiza a análise de leads de copywriting utilizando os princí
 
 2. **Configure as credenciais OpenAI**:
    - Adicione suas credenciais da OpenAI em todos os nós que utilizam o modelo
-   - Certifique-se de ter acesso aos modelos GPT-4/GPT-4 mini
+   - Certifique-se de ter acesso aos modelos GPT-5/GPT-5 mini
 
 3. **Insira sua lead para análise**:
    - Edite o nó "LEAD AQUI"
@@ -115,8 +115,8 @@ Optamos por **contextos especializados** nos prompts ao invés de base vetorial 
 ## 🧪 Validação e Testes
 
 ### Modelos Testados
-- ✅ **OpenAI GPT-4** - Mais consistente nos testes
-- ✅ **OpenAI GPT-4 mini** - Performance adequada
+- ✅ **OpenAI GPT-5** - Mais consistente nos testes
+- ✅ **OpenAI GPT-5 mini** - Performance adequada
 
 ### Problemas Identificados
 - **Inconsistência na identificação** do nível de consciência
