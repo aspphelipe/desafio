@@ -115,8 +115,8 @@ Optamos por **contextos especializados** nos prompts ao invés de base vetorial 
 ## 🧪 Validação e Testes
 
 ### Modelos Testados
-- ✅ **OpenAI GPT-5** - Mais consistente nos testes
-- ✅ **OpenAI GPT-5 mini** - Performance adequada
+- ✅ **OpenAI GPT-5** - Performance adequada
+- ✅ **OpenAI GPT-5 mini**
 
 ### Problemas Identificados
 - **Inconsistência na identificação** do nível de consciência
