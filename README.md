@@ -1,6 +1,6 @@
 # Clone Digital Eugene Schwartz
 
-Workflow n8n para análise automatizada de copywriting baseado na metodologia de Eugene Schwartz do livro "Breakthrough Advertising" (1966).
+Workflow n8n para análise automatizada de leads de VSL baseado na metodologia de Eugene Schwartz do livro "Breakthrough Advertising" (1966).
 
 ## 📋 Sobre o Projeto
 
